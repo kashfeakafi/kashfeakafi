@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-[![Github](https://img.shields.io/github/followers/himelhrh?label=Follow&style=social)](https://github.com/himelhrh)
+[![Github](https://img.shields.io/github/followers/kashfeakafi?label=Follow&style=social)](https://github.com/kashfeakafi)
 
 <div size='20px'> Hi! My name is Kashfea Kafi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -15,7 +15,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
- 🔭 I’m currently working on my course
+- 🔭 I’m currently working on my course
 - 🌱 I’m currently studying Computer Science And Engineering
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Soft Skills
@@ -31,13 +31,9 @@
 <br />
 
  ### Languages and Tools:
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
-[<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>][github]
-[<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  
  <br>
  <br>
